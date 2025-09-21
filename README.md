@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 # 👦🏻 About Me:
-🔭 I’m currently working on Nasa-project <a href='https://github.com/Adonis-12/nasa-project'>Project Link</a><br><br>🌱 I’m currently learning   **next.js,docker,jwt**<br><br>👯 I’m looking to collaborate on  **full stack projects**<br><br>⚡ Fun fact : **I'm a yapper**
+🔭 I’m currently working on Nasa-project <a href='https://github.com/Adonis-12/nasa-project'>Project Link</a><br><br>🌱 I’m currently learning   **Next.js**<br><br>👯 I’m looking to collaborate on  **full stack projects**<br><br>⚡ Fun fact : **I'm a yapper**
 
 
 ## 🌐 Socials:
